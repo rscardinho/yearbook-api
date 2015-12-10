@@ -10,6 +10,8 @@ gem 'spring', :group => :development
 
 gem 'pg'
 
+gem 'devise_token_auth'
+gem 'omniauth'
 
 
 # To use ActiveModel has_secure_password
